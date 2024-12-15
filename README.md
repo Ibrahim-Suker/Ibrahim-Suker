@@ -1,17 +1,28 @@
 # 💫 About Me:  
-I am a passionate and dedicated Full Stack .NET Developer, with a strong foundation in modern software development practices. My expertise spans both frontend and backend technologies, leveraging the .NET ecosystem to build efficient, scalable, and user-friendly applications.<br><br>On the backend, I specialize in C# and ASP.NET Core, enabling me to create robust APIs, microservices, and server-side logic. I am also well-versed in SQL and database management, ensuring the seamless integration of data-driven functionalities.<br><br>On the frontend, I work with tools and frameworks like HTML, CSS, JavaScript, and modern libraries such as React or Angular, delivering dynamic and visually appealing user interfaces.<br><br>In addition to my technical skills, I focus on enhancing my soft skills to collaborate effectively with teams, clients, and stakeholders. I am continuously learning and evolving, with an interest in freelancing, where I aim to provide tailored solutions to meet unique business needs.<br><br>My goal is to grow as a versatile developer, contributing to impactful projects and solving real-world problems with creativity and precision.
+I am a passionate and dedicated Full Stack .NET Developer with a strong foundation in modern software development practices. I work with both frontend and backend technologies, utilizing the .NET ecosystem to build efficient, scalable, and user-friendly applications.
 
+On the backend, I specialize in C# and ASP.NET Core, enabling me to create robust APIs, microservices, and server-side logic. I am also skilled in SQL and database management, ensuring seamless integration of data-driven functionalities.
+
+On the frontend, I work with tools and frameworks such as HTML, CSS, JavaScript, and modern libraries like React and Angular, creating dynamic and visually appealing user interfaces.
+
+In addition to my technical skills, I focus on enhancing my soft skills to collaborate effectively with teams, clients, and stakeholders. I am always learning and evolving, with a particular interest in freelancing, where I aim to deliver tailored solutions to meet unique business needs.
+
+My goal is to grow as a versatile developer, contributing to impactful projects and solving real-world problems with creativity and precision.
 # 💻 Tech Stack:  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+</div>
 
 # 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false)<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" alt="GitHub Streak" height="150">
+</div>
 
 # 🌐 Connect with Me:  
 <div align="center">
