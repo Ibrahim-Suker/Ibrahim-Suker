@@ -8,6 +8,10 @@ I am a passionate and dedicated Full Stack .NET Developer, with a strong foundat
 ![](https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false)<br/>
 
+# 🌐 Connect with Me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ahmed-oo/)  
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)  
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Ibrahim-Suker&icon=0&color=0)](https://visitcount.itsvg.in)
 
