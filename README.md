@@ -1,37 +1,53 @@
-# 💫 About Me:  
-I am a passionate and dedicated Full Stack .NET Developer with a strong foundation in modern software development practices. I work with both frontend and backend technologies, utilizing the .NET ecosystem to build efficient, scalable, and user-friendly applications.
+# 💫 About Me  
+Full Stack .NET Developer with solid experience in building scalable, maintainable, and high-performance web applications. Skilled in backend development using C#, ASP.NET Core, SQL, and API design, along with frontend development using HTML, CSS, JavaScript, Angular, and React.  
 
-On the backend, I specialize in C# and ASP.NET Core, enabling me to create robust APIs, microservices, and server-side logic. I am also skilled in SQL and database management, ensuring seamless integration of data-driven functionalities.
+I focus on delivering clean architecture, optimized performance, and smooth user experiences. Continuously learning, freelancing-oriented, and passionate about solving real problems through modern software engineering.
 
-On the frontend, I work with tools and frameworks such as HTML, CSS, JavaScript, and modern libraries like React and Angular, creating dynamic and visually appealing user interfaces.
+---
 
-In addition to my technical skills, I focus on enhancing my soft skills to collaborate effectively with teams, clients, and stakeholders. I am always learning and evolving, with a particular interest in freelancing, where I aim to deliver tailored solutions to meet unique business needs.
-
-My goal is to grow as a versatile developer, contributing to impactful projects and solving real-world problems with creativity and precision.
-# 💻 Tech Stack:  
+# 💻 Tech Stack  
 <div align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-</div>
+  
+  <!-- Languages & Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-# 📊 GitHub Stats:  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" alt="GitHub Streak" height="150">
-</div>
+  <!-- Frontend -->
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-# 🌐 Connect with Me:  
-<div align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-ahmed-oo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.upwork.com/nx/find-work/best-matches">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
-  </a>
 </div>
 
 ---
+
+# 📊 GitHub Stats  
+<div align="center">
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&show_icons=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" />
+
+  <br/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&theme=shadow_blue&layout=compact&hide_border=false" />
+
+</div>
+
+---
+
+# 🌐 Connect with Me  
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ibrahim-ahmed-oo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/nx/find-work/best-matches">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+
+</div>
