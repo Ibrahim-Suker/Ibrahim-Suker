@@ -24,40 +24,53 @@ I focus on delivering clean architecture, optimized performance, and smooth user
 
 ---
 
-# 📊 GitHub Stats  
+# 📊 GitHub Overview  
 <div align="center">
 
-  <!-- Main Stats -->
+  <!-- Activity Graph -->
   <img 
-       height="160" 
-       src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Suker&theme=github-dark&hide_border=false&area=true" 
+       height="250"
   />
 
-  <!-- Streak Stats -->
+  <br/><br/>
+
+  <!-- Stats Row -->
   <img 
-       height="160" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" 
+       height="150" 
+       src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&show_icons=true&theme=tokyonight&hide_border=false" 
   />
+
+  <img 
+       height="150" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=Ibrahim-Suker&theme=tokyonight&hide_border=false" 
+  />
+
+  <br/><br/>
 
   <!-- Languages -->
-  <br/><br/>
   <img 
-       height="160" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&layout=compact&theme=shadow_blue&hide_border=false" 
+       height="150" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&layout=compact&theme=tokyonight&hide_border=false" 
   />
 
 </div>
 
 ---
 
-# 🌐 Connect with Me:  
+# 🌐 Connect  
 <div align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-ahmed-oo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.upwork.com/nx/find-work/best-matches">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
-  </a>
-</div>
 
----
+  <a href="https://www.linkedin.com/in/ibrahim-ahmed-oo/">
+    <img 
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    />
+  </a>
+
+  <a href="https://www.upwork.com/nx/find-work/best-matches">
+    <img 
+         src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" 
+    />
+  </a>
+
+</div>
