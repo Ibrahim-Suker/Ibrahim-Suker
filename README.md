@@ -27,11 +27,7 @@ I focus on delivering clean architecture, optimized performance, and smooth user
 # 📊 GitHub Insights  
 <div align="center">
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" alt="GitHub Streak" height="150">
-</div>
-  <br/><br/>
+
 
   <!-- Activity Graph (Light Theme) -->
   <img 
