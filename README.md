@@ -27,27 +27,4 @@ I focus on delivering clean architecture, optimized performance, and smooth user
 
 ---
 
-# 📊 GitHub Stats  
-<div align="center">
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&show_icons=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" />
-
-  <br/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&theme=shadow_blue&layout=compact&hide_border=false" />
-
-</div>
-
----
-
-# 🌐 Connect with Me  
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/ibrahim-ahmed-oo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/nx/find-work/best-matches">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-
-</div>
+# 📊 GitHub Stats: <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" alt="GitHub Streak" height="150"> </div> # 🌐 Connect with Me: <div align="center"> <a href="https://www.linkedin.com/in/ibrahim-ahmed-oo/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.upwork.com/nx/find-work/best-matches"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"> </a> </div> ---
