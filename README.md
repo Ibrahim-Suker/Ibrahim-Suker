@@ -24,11 +24,31 @@ I focus on delivering clean architecture, optimized performance, and smooth user
 
 ---
 
-# 📊 GitHub Stats:  
+# 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" alt="GitHub Streak" height="150">
+
+  <!-- Main Stats -->
+  <img 
+       height="160" 
+       src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true" 
+  />
+
+  <!-- Streak Stats -->
+  <img 
+       height="160" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Suker&theme=shadow_blue&hide_border=false" 
+  />
+
+  <!-- Languages -->
+  <br/><br/>
+  <img 
+       height="160" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&layout=compact&theme=shadow_blue&hide_border=false" 
+  />
+
 </div>
+
+---
 
 # 🌐 Connect with Me:  
 <div align="center">
