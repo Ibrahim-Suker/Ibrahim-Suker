@@ -24,34 +24,35 @@ I focus on delivering clean architecture, optimized performance, and smooth user
 
 ---
 
-# 📊 GitHub Overview  
+# 📊 GitHub Insights  
 <div align="center">
 
-  <!-- Activity Graph -->
+  <!-- Main Stats -->
   <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Suker&theme=github-dark&hide_border=false&area=true" 
-       height="250"
+       height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&show_icons=true&theme=default&hide_border=false&include_all_commits=true" 
   />
 
-  <br/><br/>
-
-  <!-- Stats Row -->
+  <!-- Contributions Streak -->
   <img 
-       height="150" 
-       src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&show_icons=true&theme=tokyonight&hide_border=false" 
-  />
-
-  <img 
-       height="150" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=Ibrahim-Suker&theme=tokyonight&hide_border=false" 
+       height="160"
+       src="https://github-readme-streak-stats.herokuapp.com?user=Ibrahim-Suker&theme=default&hide_border=false" 
   />
 
   <br/><br/>
 
   <!-- Languages -->
   <img 
-       height="150" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&layout=compact&theme=tokyonight&hide_border=false" 
+       height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&layout=compact&theme=default&hide_border=false" 
+  />
+
+  <br/><br/>
+
+  <!-- Activity Graph (Light Theme) -->
+  <img 
+       width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Suker&theme=minimal&hide_border=false" 
   />
 
 </div>
