@@ -10,7 +10,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ahmed-oo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-B91C1C?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Ibrahim-Suker)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B91C1C?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v1-ten-umber.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimsukeroo@gmail.com)
 
 </div>
