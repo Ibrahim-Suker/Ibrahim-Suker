@@ -5,7 +5,7 @@
 # Ibrahim Ahmed
 ### Full Stack .NET Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=22&pause=1000&color=B92C1C&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%7C+React+%7C+SQL+Server;Building+Scalable+Web+Applications;Clean+Architecture+%7C+REST+APIs;Open+to+Freelance+%26+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=22&pause=1000&color=B91C1C&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%7C+React+%7C+SQL+Server;Building+Scalable+Web+Applications;Clean+Architecture+%7C+REST+APIs;Open+to+Freelance+%26+Internships" alt="Typing SVG" />
 
 <br/>
 
