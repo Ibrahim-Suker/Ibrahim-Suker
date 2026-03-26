@@ -88,8 +88,6 @@ easy to maintain and scale in production.
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Suker&bg_color=0d0d0d&color=aaaaaa&line=B91C1C&point=ffffff&hide_border=true" />
-
 </div>
 
 ---
