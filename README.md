@@ -80,8 +80,11 @@ easy to maintain and scale in production.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Suker&show_icons=true&theme=github_dark&hide_border=true&title_color=B91C1C&icon_color=B91C1C&text_color=aaaaaa&bg_color=0d0d0d" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Suker&layout=compact&theme=github_dark&hide_border=true&title_color=B91C1C&text_color=aaaaaa&bg_color=0d0d0d" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Ibrahim-Suker&theme=dark&hide_border=true&ring=B91C1C&fire=B91C1C&currStreakLabel=B91C1C&background=0d0d0d&stroke=333&dates=aaaaaa&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Suker&bg_color=0d0d0d&color=aaaaaa&line=B91C1C&point=ffffff&hide_border=true" />
 
 <br/>
 
