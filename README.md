@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B91C1C&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F0F0F&height=120&section=header" width="100"/>
 
 # Ibrahim Ahmed
 ### Full Stack .NET Developer
@@ -105,7 +105,7 @@ easy to maintain and scale in production.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B91C1C&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F0F0F&height=100&section=footer" width="100"/>
 
 *© 2026 Ibrahim Ahmed — Built with precision*
 
